@@ -1,0 +1,11 @@
+let numero = 5050;
+console.log( "El valor del numero: " + numero);
+let nombre = "Froshi Iuri";
+sueldo = "10.000.000";
+let edad = 19;
+let hijos = 0;
+console.log(nombre + " de " + edad + " años de edad, quiere tener " + hijos+ " hijos y quiere ganar como minimo un sueldo de " + sueldo + "COP");
+let femenino = false;
+let masculino = false;
+let rana = true;
+console.log("El genero de Froshi es: " + "femenino: " + femenino + " masculino: " + masculino + " rana: " + rana);
