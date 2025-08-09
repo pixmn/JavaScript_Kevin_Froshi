@@ -24,4 +24,4 @@ console.log("la multiplicación es: " + mult1 * mult2);
 let div1 = 10;
 let div2 = 2;
 console.log("la division es: " + div1 / div2);
-console.log ("la division es: " + div1 % div2); //módulo
+console.log ("El residuo es: " + div1 % div2); //módulo
