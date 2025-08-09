@@ -13,15 +13,18 @@ console.log("edad es: " + edad);
 //Resta
 let res1 = 5;
 let res2 = 2;
-console.log("la resta es: " + res1 - res2)
+console.log("la resta es: " + res1 - res2);
 
 //multiplicación
 let mult1 = 2;
-let mult2= 3;
+let mult2 = 3;
 console.log("la multiplicación es: " + mult1 * mult2);
+let mulTotal = "la multiplicación es: " + mult1 * mult2;
 
 //división
 let div1 = 10;
 let div2 = 2;
 console.log("la division es: " + div1 / div2);
-console.log ("El residuo es: " + div1 % div2); //módulo
+console.log("El residuo es: " + div1 % div2); //módulo
+alert;
+alert(mulTotal);
