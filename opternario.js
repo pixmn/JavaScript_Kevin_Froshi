@@ -1,8 +1,8 @@
 console.log("7%2 usandose if y else");
 if (7 % 2 === 0) {
-  console.log("7%2 es impar");
+    console.log("7%2 es par");
 } else {
-  console.log("7%2 es par");
+    console.log("7%2 es impar");
 }
 
 console.log("7%2 usandose comparador ternario");
