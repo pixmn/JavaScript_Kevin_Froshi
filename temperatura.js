@@ -1,0 +1,1 @@
+let temp = parseFloat(prompt)
